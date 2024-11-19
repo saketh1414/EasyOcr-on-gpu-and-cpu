@@ -1,0 +1,1 @@
+# Easyocr-on-gpu-and-cpu
